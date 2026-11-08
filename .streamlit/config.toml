@@ -1,0 +1,8 @@
+[server]
+# このPCからのみアクセス可能にする（同じネットワークの他端末からは開けない）
+address = "localhost"
+# アップロードの上限（MB）
+maxUploadSize = 20
+
+[browser]
+gatherUsageStats = false
